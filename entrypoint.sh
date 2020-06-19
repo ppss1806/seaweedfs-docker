@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "seaweedfs-docker v1.0"
+
 case "$1" in
 
   'master')
